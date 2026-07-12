@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+financial_db.db
+
+flagged_transactions.csv
+
+.vscode/
+
+.idea/
